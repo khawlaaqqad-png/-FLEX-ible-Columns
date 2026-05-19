@@ -1,0 +1,13 @@
+.row {
+    width: 500px;
+    background-color: red;
+    display: flex;
+
+}
+
+.col {
+    height: 100px;
+    background-color: aqua;
+    margin: 5px;
+    flex: 1 200px;
+}
