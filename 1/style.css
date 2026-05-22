@@ -2,12 +2,41 @@
     width: 500px;
     background-color: red;
     display: flex;
-
+    margin: 20px;
 }
 
 .col {
     height: 100px;
     background-color: aqua;
     margin: 5px;
-    flex: 1 200px;
+    flex: 1;
 }
+
+.col1 {
+    height: 100px;
+    background-color: aqua;
+    margin: 5px;
+    flex: 1;
+}
+
+.col2 {
+    height: 100px;
+    background-color: blue;
+    margin: 5px;
+    flex: 2;
+}
+
+
+.col-2 {
+    height: 100px;
+    background-color: aqua;
+    margin: 5px;
+    flex: 2;
+}
+.col-3 {
+    height: 100px;
+    background-color: blue;
+    margin: 5px;
+    flex: 3;
+}
+
